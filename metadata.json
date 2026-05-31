@@ -1,0 +1,6 @@
+{
+  "name": "Traçabilité Stérilisation - Clinique Alouia",
+  "description": "Système professionnel de traçabilité des boîtes d'instruments chirurgicaux et du circuit de stérilisation pour la Clinique Alouia.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
